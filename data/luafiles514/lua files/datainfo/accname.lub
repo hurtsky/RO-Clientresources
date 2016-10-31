@@ -1523,4 +1523,7 @@ AccNameTable = {
 	[ACCESSORY_IDs.ACCESSORY_UNREGISTERED_1539] = "_C_JP_EV08",
 	[ACCESSORY_IDs.ACCESSORY_UNREGISTERED_1540] = "_C_JP_EV09",
 	[ACCESSORY_IDs.ACCESSORY_UNREGISTERED_1541] = "_Ro±â³ä¸ðÀÚ",
+	[ACCESSORY_IDs.ACCESSORY_omega_wings] = "_omega_wings",
+	[ACCESSORY_IDs.ACCESSORY_alpha_wings] = "_alpha_wings",
+	[ACCESSORY_IDs.ACCESSORY_archangel_wings] = "_archangel_wings",
 }
