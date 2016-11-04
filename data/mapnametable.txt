@@ -1198,3 +1198,4 @@ pvp_2vs2.rsw#PvP : Event Coliseum#
 
 //RojakRO custom Map
 arena_4.rsw#PVP : PVP Room 1#
+artz_pvp.rsw#PVP : PVP Room 2#

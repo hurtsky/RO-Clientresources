@@ -1769,3 +1769,9 @@ arena_4.gat#arena_4.gat#
 arena_4.rsw#arena_4.rsw#
 arena_4.extra#arena_4.extra#
 유저인터페이스\map\arena_4.bmp#유저인터페이스\map\arena_4.bmp#
+
+artz_pvp.gnd#artz_pvp.gnd#
+artz_pvp.gat#artz_pvp.gat#
+artz_pvp.rsw#artz_pvp.rsw#
+artz_pvp.extra#artz_pvp.extra#
+유저인터페이스\map\artz_pvp.bmp#유저인터페이스\map\artz_pvp.bmp#
