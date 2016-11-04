@@ -1195,3 +1195,6 @@ pvp_y_6-5.rsw#PvP : Room Morocc#
 pvp_y_7-5.rsw#PvP : Room Morocc#
 pvp_y_8-5.rsw#PvP : Room Morocc#
 pvp_2vs2.rsw#PvP : Event Coliseum#
+
+//RojakRO custom Map
+arena_4.rsw#PVP : PVP Room 1#
