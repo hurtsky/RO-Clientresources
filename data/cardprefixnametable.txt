@@ -1,4 +1,5 @@
 1001#Mascot#
+
 4001#Lucky#
 4002#Vital#
 4003#Hard#
@@ -444,6 +445,7 @@
 4443#of Saharic#
 4444#of Underneath#
 4445#of Windy#
+4446#Sharpen#
 4447#of Envenom#
 4448#of Damned#
 4449#of Hallowed#
@@ -453,8 +455,6 @@
 4453#Violent#
 4454#Sorry#
 4455#Love#
-
-// - Episode 14.1 Cards - \\
 4456#Spell Master#
 4457#Psychic#
 4458#of Illusion#
@@ -479,16 +479,31 @@
 4477#Demonic#
 4478#Tell me#
 4479#Why did you#
-
 4480#of Half Reload#
 4481#Half Jack Frost#
 4482#of Half regeneration#
 4483#Half Spiritual#
 4484#of Half Gemstone#
 4485#Half Abyss#
-4991#Carefree#
-
-//-------New Monster Cards 
+4486#of Half Bigmouth#
+4487#Half Inferno#
+4488#of Half Doom#
+4489#of Half Kirin#
+4490#Half Hasty#
+4491#of Half Squeezing#
+4492#Half Neutral#
+4493#Half High Risk#
+4494#Half Explosive#
+4495#of Half Protection#
+4496#of Half Infinity#
+4497#Half Storm-Bringer#
+4498#Half Mana Pool#
+4499#Half Bloodlust#
+4500#Half Mirror#
+4501#Half Protection#
+4502#Half Holgren#
+4503#of Half Vision#
+4504#Half Bearer's#
 4505#of Mad Witch#
 4506#of Archer#
 4507#Scaraba#
@@ -519,32 +534,27 @@
 4532#Sprinting#
 4533#Blinding#
 4534#Water Bomb#
-4493#Half High Risk#
 
+4536#Half Beast#
+4537#Half Perfect#
+4538#Half Life Stream#
+4539#Half Arrogant#
+4540#Half Crisis#
+4541#of Half Tempest#
+4542#of Half Magic Shelter#
+4543#Half Arctic#
+4544#Half Curse Lift#
 4545#Novice#
-
 4546#Screwed#
+4547#Half Exceeding#
+4548#Half Nessus#
+4549#of Half True Sight#
+4550#Half Shaft#
 
-/ / --- October 2012 _ Hero's Trail
 4556#Power Ward#
 4557#of Spell Power#
 
-/ / --- 2013 / 02/15 sealed Dark Lord added
-4488#of Half Doom#
-
-/ / February 2013 _ drank before Memorial
 4559#Blitz#
-
-/ / January 2013 _4 _ probability model cache
-4497#Half Storm-Bringer#
-
-//4998#of Valor#
-//4999#of Aegis#
-
-/ / --- 2013 / 22.05 Sealed Berzebub Card
-4486#of Half Bigmouth#
-
-/ / --- June 2013 _ new cards
 4560#of Bragi#
 4561#of Magic Protection#
 4562#of Penetrating#
@@ -565,9 +575,8 @@
 4577#Psychic#
 4578#Fear#
 4579#Morning Star#
+4580#of Devilish#
 4581#Toilet#
-
-//malaya
 4582#Stamina#
 4583#of Poison Grass#
 4584#Vampiric#
@@ -594,32 +603,10 @@
 4605#of Hunger#
 4606#of Revenge#
 4607#Librarian#
-
 4608#Knight's#
 4609#Knight's#
 4610#of Bless#
 
-
-//--- 2013 December
-4494#Half Explosive#
-
-//--- 2014 January
-4538#Half Life Stream#
-
-//--- 2014 February
-4489#of Half Kirin#
-
-//--- 2014 March
-4490#Half Hasty#
-
-// New card translation (dec 2014)
-4487#Half Inferno#
-4491#of Half Squeezing#
-
-4503#of Half Vision#
-4539#Half Arrogant#
-
-//--- Agustus 2014 Nightmare Clock Tower
 4625#Sage#
 4626#Echo#
 4627#Vibration#
@@ -628,9 +615,6 @@
 4630#of Timekeeper#
 4631#Volant#
 4632#Current#
-
-// January 2015 Episode 16.1
-4446#Sharpen#
 4633#Queen Bird#
 4634#Fatal#
 4635#Tight#
@@ -640,17 +624,6 @@
 4639#Martial#
 4640#Noetic#
 4641#of Soul Gathering#
-
-// 20150616 jRO Nightmare Pyramid
-4652#Punishment#
-4653#Immortal Beast#
-4654#Tomb Raider#
-4655#Grave Keeper#
-4656#Hypnotist#
-4657#Flaming#
-4658#of Magic#
-
-// 2015 06 Infinite Dungeon
 4642#Side Step#
 4643#Strike#
 4644#Magic Shield#
@@ -661,8 +634,13 @@
 4649#Fatal Blow#
 4650#Magic Stun#
 4651#Monarch#
-
-// 2015 Doram race
+4652#Punishment#
+4653#Immortal Beast#
+4654#Tomb Raider#
+4655#Grave Keeper#
+4656#Hypnotist#
+4657#Flaming#
+4658#of Magic#
 4659#Adventurer#
 4660#of Will#
 4661#of Strength#
@@ -675,18 +653,6 @@
 4668#Silky#
 4669#Gust#
 4670#Blaze#
-
-// 2015 Nightmare Toy Factory Cards
-31016#of Sorrow#
-31017#of Hatred#
-31018#Frustration#
-31019#of Chill#
-31020#of Wrath#
-31021#Madness#
-31022#of Despair#
-31023#Maniac#
-
-// 201512 Tomb of The Fallen Cards
 4671#of Sorcery#
 4672#of Sura#
 4673#of Minstrel#
@@ -713,13 +679,31 @@
 4694#Decoy#
 4695#Rain Storm#
 4696#Sound Shock#
+4697#Overload#
+4698#Boomerang#
+4699#Dual Cannon#
 
-// Episode 16.2
-31024#Volcanic Ball#
-31025#Deadly#
-31026#Auto Magic#
+4908##
+4909##
+4910##
+4911##
+4912##
+4913##
+4914##
+4915##
+4916##
+4917##
+4918##
+4919##
+4920##
+4921##
+4922##
+4923##
+4924##
+4925##
 
-// EP 15 Cards
+4991#Carefree#
+
 27012#Active Protection#
 27013#Vulcan#
 27014#Mirage#
@@ -729,40 +713,22 @@
 27018#Overclock#
 27019#Debug#
 27020#System Error#
-4697#Overload#
-4698#Boomerang#
-4699#Dual Cannon#
 
-// 2016 Friday Dungeon
 27025#Noble#
-
-// Episode 14.1 field monster cards
 27026#Blazing#
 27027#Flaming#
 27028#Searing#
 27029#Flame Eater#
 27030#Firebug#
 
-// Missing cards
-4492#Half Neutral#
-4495#of Half Protection#
-4496#of Half Infinity#
-4498#Half Mana Pool#
-4499#Half Bloodlust#
-4500#Half Mirror#
-4501#Half Protection#
-4502#Half Holgren#
-4504#Half Bearer's#
-4536#Half Beast#
-4537#Half Perfect#
-4540#Half Crisis#
-4541#of Half Tempest#
-4542#of Half Magic Shelter#
-4543#Half Arctic#
-4544#Half Curse Lift#
-4547#Half Exceeding#
-4548#Half Nessus#
-4549#of Half True Sight#
-4550#Half Shaft#
-4580#of Devilish#
-
+31016#of Sorrow#
+31017#of Hatred#
+31018#Frustration#
+31019#of Chill#
+31020#of Wrath#
+31021#Madness#
+31022#of Despair#
+31023#Maniac#
+31024#Volcanic Ball#
+31025#Deadly#
+31026#Auto Magic#
