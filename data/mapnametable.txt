@@ -1197,5 +1197,6 @@ pvp_y_8-5.rsw#PvP : Room Morocc#
 pvp_2vs2.rsw#PvP : Event Coliseum#
 
 //RojakRO custom Map
-arena_4.rsw#PVP : PVP Room 1#
-artz_pvp.rsw#PVP : PVP Room 2#
+arena_4.rsw#PVP : Room Rojak 1#
+artz_pvp.rsw#PVP : Room Rojak 2#
+dali03.rsw#Special Area#

@@ -1775,3 +1775,8 @@ artz_pvp.gat#artz_pvp.gat#
 artz_pvp.rsw#artz_pvp.rsw#
 artz_pvp.extra#artz_pvp.extra#
 유저인터페이스\map\artz_pvp.bmp#유저인터페이스\map\artz_pvp.bmp#
+
+dali03.gnd#dali.gnd#
+dali03.gat#dali.gat#
+dali03.rsw#dali.rsw#
+유저인터페이스\map\dali03.bmp#유저인터페이스\map\dali.bmp#
