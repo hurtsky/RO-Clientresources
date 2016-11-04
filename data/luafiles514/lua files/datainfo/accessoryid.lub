@@ -142,7 +142,7 @@ ACCESSORY_IDs = {
 	ACCESSORY_Ear_Of_Black_Cat = 141,
 	ACCESSORY_C_Refined_Drooping_Cat = 142,
 	ACCESSORY_C_Brown_Bear_Cap = 143,
-	ACCESSORY_C_Sunglasses = 144,
+	ACCESSORY_Sunglasses_ = 144,
 	ACCESSORY_C_Flower_Hairpin = 145,
 	ACCESSORY_C_Straw_Hat = 146,
 	ACCESSORY_C_Giant_Band_Aid = 147,
@@ -1571,4 +1571,7 @@ ACCESSORY_IDs = {
 	ACCESSORY_C_Sparkling_Sound = 1570,
 	ACCESSORY_C_Iceflake_Hat = 1571,
 	ACCESSORY_C_RWC2013_Japan_Hat = 1572,
+	ACCESSORY_andromeda_wings = 10000,
+	ACCESSORY_happyfwing = 10001,
+	ACCESSORY_ice_wings = 10002,
 }

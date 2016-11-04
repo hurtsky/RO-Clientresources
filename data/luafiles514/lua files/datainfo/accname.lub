@@ -142,7 +142,7 @@ AccNameTable = {
 	[ACCESSORY_IDs.ACCESSORY_Ear_Of_Black_Cat] = "_검은고양이귀",
 	[ACCESSORY_IDs.ACCESSORY_C_Refined_Drooping_Cat] = "_늘어진고양이",
 	[ACCESSORY_IDs.ACCESSORY_C_Brown_Bear_Cap] = "_곰돌이모자",
-	[ACCESSORY_IDs.ACCESSORY_C_Sunglasses] = "_선글래스",
+	[ACCESSORY_IDs.ACCESSORY_Sunglasses_] = "_선글래스",
 	[ACCESSORY_IDs.ACCESSORY_C_Flower_Hairpin] = "_꽃머리핀",
 	[ACCESSORY_IDs.ACCESSORY_C_Straw_Hat] = "_밀짚모자",
 	[ACCESSORY_IDs.ACCESSORY_C_Giant_Band_Aid] = "_반창고",
@@ -1571,4 +1571,7 @@ AccNameTable = {
 	[ACCESSORY_IDs.ACCESSORY_C_Sparkling_Sound] = "_음계의오오라",
 	[ACCESSORY_IDs.ACCESSORY_C_Iceflake_Hat] = "_빙수모자",
 	[ACCESSORY_IDs.ACCESSORY_C_RWC2013_Japan_Hat] = "_rwc2013_jp기념모자",
+	[ACCESSORY_IDs.ACCESSORY_andromeda_wings] = "_andromeda_wings",
+	[ACCESSORY_IDs.ACCESSORY_happyfwing] = "_happyfwing",
+	[ACCESSORY_IDs.ACCESSORY_ice_wings] = "_ice_wings",
 }
