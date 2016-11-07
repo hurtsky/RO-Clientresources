@@ -1197,6 +1197,14 @@ pvp_y_8-5.rsw#PvP : Room Morocc#
 pvp_2vs2.rsw#PvP : Event Coliseum#
 
 //RojakRO custom Map
+//PVP ROOMS
 arena_4.rsw#PVP : Room Rojak 1#
 artz_pvp.rsw#PVP : Room Rojak 2#
+desert.rsw#PVP : Room Rojak 3#
+fishingboat.rsw#PVP : Room Rojak 4#
+garden.rsw#PVP : Room Rojak 5#
+ghosthunter.rsw#PVP : Room Rojak 6#
+storehouse.rsw#PVP : Room Rojak 7#
+
+//SPECIAL AREAS
 dali03.rsw#Special Area#
