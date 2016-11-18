@@ -1526,4 +1526,6 @@ AccNameTable = {
 	[ACCESSORY_IDs.ACCESSORY_omega_wings] = "_omega_wings",
 	[ACCESSORY_IDs.ACCESSORY_alpha_wings] = "_alpha_wings",
 	[ACCESSORY_IDs.ACCESSORY_archangel_wings] = "_archangel_wings",
+	[ACCESSORY_IDs.ACCESSORY_Rojak_Skateboard] = "_skateboard",
+	[ACCESSORY_IDs.ACCESSORY_Red_Cat_Ears_Beret] = "_Red_Cat_Ears_Beret",
 }
