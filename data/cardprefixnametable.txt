@@ -732,3 +732,5 @@
 31024#Volcanic Ball#
 31025#Deadly#
 31026#Auto Magic#
+
+50032#Fast Casting Unstopable#
