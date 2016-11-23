@@ -1562,4 +1562,11 @@ ACCESSORY_IDs = {
 	ACCESSORY_Vulture_Wings = 10003,
 	ACCESSORY_blisswings = 10004,
 	ACCESSORY_golden_wings_easter = 10005,
+	ACCESSORY_Infernal_Cap = 10006,
+	ACCESSORY_Ivory_Valkyrie_Helm = 10007,
+	ACCESSORY_Nightvision_Goggles = 10008,
+	ACCESSORY_Red_Cat_Ears_Beret = 10009,
+	ACCESSORY_Black_Cat_Ears_Beret = 10010,
+	ACCESSORY_Blue_Cat_Ears_Beret = 10011,
+	ACCESSORY_Rainbowring_Hat = 10012,
 }

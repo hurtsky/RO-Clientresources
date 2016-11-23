@@ -1562,4 +1562,11 @@ AccNameTable = {
 	[ACCESSORY_IDs.ACCESSORY_Vulture_Wings] = "_Vulture_Wings",
 	[ACCESSORY_IDs.ACCESSORY_blisswings] = "_blisswings",
 	[ACCESSORY_IDs.ACCESSORY_golden_wings_easter] = "_golden_wings_easter",
+	[ACCESSORY_IDs.ACCESSORY_Infernal_Cap] = "_Infernal_Cap",
+	[ACCESSORY_IDs.ACCESSORY_Ivory_Valkyrie_Helm] = "_Ivory_Valkyrie_Helm",
+	[ACCESSORY_IDs.ACCESSORY_Nightvision_Goggles] = "_Nightvision_Goggles",
+	[ACCESSORY_IDs.ACCESSORY_Red_Cat_Ears_Beret] = "_Red_Cat_Ears_Beret",
+	[ACCESSORY_IDs.ACCESSORY_Black_Cat_Ears_Beret] = "_Black_Cat_Ears_Beret",
+	[ACCESSORY_IDs.ACCESSORY_Blue_Cat_Ears_Beret] = "_Blue_Cat_Ears_Beret",
+	[ACCESSORY_IDs.ACCESSORY_Rainbowring_Hat] = "_rainbowring_hat",
 }
