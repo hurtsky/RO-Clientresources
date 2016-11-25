@@ -735,3 +735,5 @@
 40004#of Lust#
 40005#of Greed#
 40006#of Faith#
+
+40030#of Rojak#
