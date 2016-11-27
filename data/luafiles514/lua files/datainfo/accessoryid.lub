@@ -478,7 +478,7 @@ ACCESSORY_IDs = {
 	ACCESSORY_C_Bijofnil_Wings = 477,
 	ACCESSORY_C_Hermos_Cap = 478,
 	ACCESSORY_C_Dark_Knight_Mask = 479,
-	ACCESSORY_Odin_Mask_ = 480,
+	ACCESSORY_Falcon_Mask_Lvl_1 = 480,
 	ACCESSORY_Red_Ph_D_Hat = 481,
 	ACCESSORY_Taiwan_Flag_Hat = 482,
 	ACCESSORY_C_Tiger_Face = 483,
@@ -1570,4 +1570,5 @@ ACCESSORY_IDs = {
 	ACCESSORY_Black_Cat_Ears_Beret = 10010,
 	ACCESSORY_Blue_Cat_Ears_Beret = 10011,
 	ACCESSORY_Rainbowring_Hat = 10012,
+	ACCESSORY_Wings_of_Purity = 10013,
 }

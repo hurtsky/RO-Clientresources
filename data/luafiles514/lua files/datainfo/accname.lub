@@ -478,7 +478,7 @@ AccNameTable = {
 	[ACCESSORY_IDs.ACCESSORY_C_Bijofnil_Wings] = "_비조프닐날개장식",
 	[ACCESSORY_IDs.ACCESSORY_C_Hermos_Cap] = "_헤르모즈캡",
 	[ACCESSORY_IDs.ACCESSORY_C_Dark_Knight_Mask] = "_다크나이트마스크",
-	[ACCESSORY_IDs.ACCESSORY_Odin_Mask_] = "_오딘마스크",
+	[ACCESSORY_IDs.ACCESSORY_Falcon_Mask_Lvl_1] = "_오딘마스크",
 	[ACCESSORY_IDs.ACCESSORY_Red_Ph_D_Hat] = "_붉은학사모",
 	[ACCESSORY_IDs.ACCESSORY_Taiwan_Flag_Hat] = "_대만국기모자",
 	[ACCESSORY_IDs.ACCESSORY_C_Tiger_Face] = "_호랑이얼굴",
@@ -1570,4 +1570,5 @@ AccNameTable = {
 	[ACCESSORY_IDs.ACCESSORY_Black_Cat_Ears_Beret] = "_Black_Cat_Ears_Beret",
 	[ACCESSORY_IDs.ACCESSORY_Blue_Cat_Ears_Beret] = "_Blue_Cat_Ears_Beret",
 	[ACCESSORY_IDs.ACCESSORY_Rainbowring_Hat] = "_rainbowring_hat",
+	[ACCESSORY_IDs.ACCESSORY_Wings_of_Purity] = "_christmas_setw",
 }
