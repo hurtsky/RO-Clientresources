@@ -3644,4 +3644,6 @@ JobNameTable = {
 	[jobtbl.JT_4_M_COWRAIDERS1] = "4_M_COWRAIDERS1",
 	[jobtbl.JT_4_M_COWRAIDERS2] = "4_M_COWRAIDERS2",
 	[jobtbl.JT_4_M_COWRAIDERS3] = "4_M_COWRAIDERS3",
+	[jobtbl.JT_ORC_X2016] = "ORC_XMAS",
+	[jobtbl.JT_PORING_X2016] = "Poring_",
 }
