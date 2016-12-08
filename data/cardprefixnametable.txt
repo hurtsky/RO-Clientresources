@@ -683,6 +683,9 @@
 4698#Boomerang#
 4699#Dual Cannon#
 
+4901#<Mdef+7>#
+4902#<Def+18>#
+
 4908##
 4909##
 4910##
@@ -721,19 +724,9 @@
 27029#Flame Eater#
 27030#Firebug#
 
-31016#of Sorrow#
-31017#of Hatred#
-31018#Frustration#
-31019#of Chill#
-31020#of Wrath#
-31021#Madness#
-31022#of Despair#
-31023#Maniac#
-31024#Volcanic Ball#
-31025#Deadly#
-31026#Auto Magic#
-
-// jRO cards
+27033#Madman's#
+27034#Gust#
+27035#Twisted#
 27036#Sharp#
 27037#Queen Bird#
 27038#Spike#
@@ -744,9 +737,30 @@
 27043#of Mudd Candy#
 27044#of Mudd Sherbet#
 27045#of Soul Gathering#
-27033#Madman's#
-27034#Gust#
-27035#Twisted#
+27046#<Virgo>#
+27047#<Piece of Virgo>#
+27048#<Leo>#
+27049#<Piece of Leo>#
+27050#Dual Mirage#
+27051#Dual Spiritual#
+27052#Dual Whale#
+27053#Dual Jungle#
+27054#Dual Genie#
+
+29235#<Perfect Dodge+1>#
+29236#<Perfect Dodge+2>#
+29237#<Flee+5>#
+29238#<Flee+10>#
+29239#<Hit+5>#
+29240#<Hit+10>#
+29241#<Cri+10>#
+29242#<Indestructible(Armor)>#
+29243#<Uninterruptable Cast>#
+29244#<PlayerResistance1>#
+29245#<PlayerResistance2>#
+29246#<PlayerResistance3>#
+29247#<PlayerResistance4>#
+29248#<PlayerResistance5>#
 29249#<Neve of Rest(Power)>#
 29250#<Neve of Rest(Mind)>#
 29251#<Neve of Rest(Life)>#
@@ -781,32 +795,17 @@
 29280#<Neve of Death(Intelligence)>#
 29281#<Neve of Death(Vitality)>#
 29282#<Neve of Death(Magic)>#
-//-------------------------------------------------
-29235#<Perfect Dodge+1>#
-29236#<Perfect Dodge+2>#
-29237#<Flee+5>#
-29238#<Flee+10>#
-29239#<Hit+5>#
-29240#<Hit+10>#
-29241#<Cri+10>#
-29242#<Indestructible(Armor)>#
-29243#<Uninterruptable Cast>#
-29244#<PlayerResistance1>#
-29245#<PlayerResistance2>#
-29246#<PlayerResistance3>#
-29247#<PlayerResistance4>#
-29248#<PlayerResistance5>#
-4901#<Mdef+7>#
-4902#<Def+18>#
-//-------------------------------------------------
-27046#<Virgo>#
-27047#<Piece of Virgo>#
-27048#<Leo>#
-27049#<Piece of Leo>#
-27050#Dual Mirage#
-27051#Dual Spiritual#
-27052#Dual Whale#
-27053#Dual Jungle#
-27054#Dual Genie#
+
+31016#of Sorrow#
+31017#of Hatred#
+31018#Frustration#
+31019#of Chill#
+31020#of Wrath#
+31021#Madness#
+31022#of Despair#
+31023#Maniac#
+31024#Volcanic Ball#
+31025#Deadly#
+31026#Auto Magic#
 
 50032#Fast Casting Unstopable#
