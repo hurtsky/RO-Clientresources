@@ -4598,3 +4598,30 @@ StateIconList[EFST_IDs.EFST_EP16_2_BUFF_AC] = {
 		{ "Reduce variable cast time by 80%" }
 	}
 }
+StateIconList[EFST_IDs.EFST_ENCHANTARMS] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{"Enchant Weapon", COLOR_TITLE_BUFF},
+		{"%s", COLOR_TIME},
+		{"Temporarily enchants property to the user's weapon."},
+	}
+}
+StateIconList[EFST_IDs.EFST_ARMOR_ELEMENT] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{"Enchant Armor", COLOR_TITLE_BUFF},
+		{"%s", COLOR_TIME},
+		{"Temporarily enchants property to the user's armor."}
+	}
+}
+StateIconList[EFST_IDs.EFST_ARMOR_RESIST] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{"Enchant Resistance", COLOR_TITLE_BUFF},
+		{"%s", COLOR_TIME},
+		{"Temporarily grants resistance to Fire/Water/Wind/Earth property attack."}
+	}
+}
