@@ -747,6 +747,16 @@
 27053#애니버서리카드4#
 27054#애니버서리카드5#
 
+// Illusion of Moonlight
+27081#sorry#
+27082#sorry#
+27083#sorry#
+27084#sorry#
+27085#sorry#
+27086#sorry#
+27087#sorry#
+27088#sorry#
+
 29235#sorry#
 29236#sorry#
 29237#sorry#

@@ -707,6 +707,15 @@
 
 4991#Carefree#
 
+27000#of Sorrow#
+27001#of Hatred#
+27002#of Frustration#
+27003#of Chill#
+27004#of Wrath#
+27005#of Madness#
+27006#of Despair#
+27007#of Laugh#
+
 27012#Active Protection#
 27013#Vulcan#
 27014#Mirage#
@@ -746,6 +755,16 @@
 27052#Dual Whale#
 27053#Dual Jungle#
 27054#Dual Genie#
+
+// 2016 12 Illusion of Moonlight
+27081#Moonlight#
+27082#Foxtail#
+27083#of Growth#
+27084#Creepy#
+27085#Delicate#
+27086#Shooter#
+27087#Truth#
+27088#of Agitation#
 
 29235#<Perfect Dodge+1>#
 29236#<Perfect Dodge+2>#
