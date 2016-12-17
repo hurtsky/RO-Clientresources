@@ -1839,3 +1839,15 @@ lunashop.gat#lunashop.gat#
 lunashop.rsw#lunashop.rsw#
 lunashop.extra#lunashop.extra#
 유저인터페이스\map\lunashop.bmp#유저인터페이스\map\lunashop.bmp#
+
+maze.gnd#maze.gnd#
+maze.gat#maze.gat#
+maze.rsw#maze.rsw#
+maze.extra#maze.extra#
+유저인터페이스\map\maze.bmp#유저인터페이스\map\maze.bmp#
+
+1@zombie.gnd#1@zombie.gnd#
+1@zombie.gat#1@zombie.gat#
+1@zombie.rsw#1@zombie.rsw#
+1@zombie.extra#1@zombie.extra#
+유저인터페이스\map\1@zombie.bmp#유저인터페이스\map\1@zombie.bmp#

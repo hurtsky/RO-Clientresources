@@ -1231,4 +1231,10 @@ storehouse.rsw#PVP : Room Rojak 7#
 
 //SPECIAL AREAS
 dali03.rsw#Special Area#
+
+//Vending Map
 lunashop.rsw#Chow Kit Road#
+
+//Auto Event Maps
+maze.rsw#Maze Event#
+1@zombie.rsw#Zombie Event#
