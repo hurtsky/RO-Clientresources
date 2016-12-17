@@ -1862,3 +1862,8 @@ vend_zone.gat#vend_zone.gat#
 vend_zone.rsw#vend_zone.rsw#
 유저인터페이스\map\vend_zone.bmp#유저인터페이스\map\vend_zone.bmp#
 
+sm_pri.gnd#sm_pri.gnd#
+sm_pri.gat#sm_pri.gat#
+sm_pri.rsw#sm_pri.rsw#
+sm_pri.extra#sm_pri.extra#
+유저인터페이스\map\sm_pri.bmp#유저인터페이스\map\sm_pri.bmp#
