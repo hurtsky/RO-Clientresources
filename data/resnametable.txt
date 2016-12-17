@@ -1833,3 +1833,9 @@ dali03.gnd#dali.gnd#
 dali03.gat#dali.gat#
 dali03.rsw#dali.rsw#
 유저인터페이스\map\dali03.bmp#유저인터페이스\map\dali.bmp#
+
+lunashop.gnd#lunashop.gnd#
+lunashop.gat#lunashop.gat#
+lunashop.rsw#lunashop.rsw#
+lunashop.extra#lunashop.extra#
+유저인터페이스\map\lunashop.bmp#유저인터페이스\map\lunashop.bmp#

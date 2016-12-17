@@ -1231,3 +1231,4 @@ storehouse.rsw#PVP : Room Rojak 7#
 
 //SPECIAL AREAS
 dali03.rsw#Special Area#
+lunashop.rsw#Chow Kit Road#
