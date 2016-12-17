@@ -1238,3 +1238,6 @@ lunashop.rsw#Chow Kit Road#
 //Auto Event Maps
 maze.rsw#Maze Event#
 1@zombie.rsw#Zombie Event#
+
+//custom
+wolfmap1.rsw#Wolf#

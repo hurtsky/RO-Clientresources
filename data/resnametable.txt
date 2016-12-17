@@ -1851,3 +1851,9 @@ maze.extra#maze.extra#
 1@zombie.rsw#1@zombie.rsw#
 1@zombie.extra#1@zombie.extra#
 유저인터페이스\map\1@zombie.bmp#유저인터페이스\map\1@zombie.bmp#
+
+wolfmap1.gnd#wolfmap1.gnd#
+wolfmap1.gat#wolfmap1.gat#
+wolfmap1.rsw#wolfmap1.rsw#
+유저인터페이스\map\wolfmap1.bmp#유저인터페이스\map\wolfmap1.bmp#
+
