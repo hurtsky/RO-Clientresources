@@ -756,7 +756,6 @@
 27053#Dual Jungle#
 27054#Dual Genie#
 
-// 2016 12 Illusion of Moonlight
 27081#Moonlight#
 27082#Foxtail#
 27083#of Growth#
