@@ -1873,3 +1873,13 @@ r_road.gat#r_road.gat#
 r_road.rsw#r_road.rsw#
 r_road.extra#r_road.extra#
 유저인터페이스\map\r_road.bmp#유저인터페이스\map\r_road.bmp#
+
+poring_c01.gnd#poring_c01.gnd#
+poring_c01.gat#poring_c01.gat#
+poring_c01.rsw#poring_c01.rsw#
+유저인터페이스\map\poring_c01.bmp#유저인터페이스\map\poring_c01.bmp#
+
+poring_c02.gnd#poring_c02.gnd#
+poring_c02.gat#poring_c02.gat#
+poring_c02.rsw#poring_c02.rsw#
+유저인터페이스\map\poring_c02.bmp#유저인터페이스\map\poring_c02.bmp#
