@@ -1857,3 +1857,8 @@ wolfmap1.gat#wolfmap1.gat#
 wolfmap1.rsw#wolfmap1.rsw#
 유저인터페이스\map\wolfmap1.bmp#유저인터페이스\map\wolfmap1.bmp#
 
+vend_zone.gnd#vend_zone.gnd#
+vend_zone.gat#vend_zone.gat#
+vend_zone.rsw#vend_zone.rsw#
+유저인터페이스\map\vend_zone.bmp#유저인터페이스\map\vend_zone.bmp#
+

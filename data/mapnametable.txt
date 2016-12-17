@@ -1241,3 +1241,4 @@ maze.rsw#Maze Event#
 
 //custom
 wolfmap1.rsw#Wolf#
+vend_zone.rsw#Vending Zone#
