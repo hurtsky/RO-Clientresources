@@ -1245,3 +1245,4 @@ vend_zone.rsw#Vending Zone#
 sm_pri.rsw#Zone 1#
 r_road.rsw#Zone 2#
 mall01.rsw#Zone 3#
+Investigation.rsw#Zone 4#

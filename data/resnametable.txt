@@ -1888,3 +1888,9 @@ mall01.gnd#mall01.gnd#
 mall01.gat#mall01.gat#
 mall01.rsw#mall01.rsw#
 유저인터페이스\map\mall01.bmp#유저인터페이스\map\mall01.bmp#
+
+Investigation.gnd#Investigation.gnd#
+Investigation.gat#Investigation.gat#
+Investigation.rsw#Investigation.rsw#
+Investigation.extra#Investigation.extra#
+유저인터페이스\map\Investigation.bmp#유저인터페이스\map\Investigation.bmp#
