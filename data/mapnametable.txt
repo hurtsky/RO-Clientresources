@@ -1243,3 +1243,4 @@ maze.rsw#Maze Event#
 wolfmap1.rsw#Wolf#
 vend_zone.rsw#Vending Zone#
 sm_pri.rsw#Zone 1#
+r_road.rsw#Zone 2#

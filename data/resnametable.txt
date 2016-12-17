@@ -1867,3 +1867,9 @@ sm_pri.gat#sm_pri.gat#
 sm_pri.rsw#sm_pri.rsw#
 sm_pri.extra#sm_pri.extra#
 유저인터페이스\map\sm_pri.bmp#유저인터페이스\map\sm_pri.bmp#
+
+r_road.gnd#r_road.gnd#
+r_road.gat#r_road.gat#
+r_road.rsw#r_road.rsw#
+r_road.extra#r_road.extra#
+유저인터페이스\map\r_road.bmp#유저인터페이스\map\r_road.bmp#
