@@ -1900,3 +1900,9 @@ event_01.gat#event_01.gat#
 event_01.rsw#event_01.rsw#
 event_01.extra#event_01.extra#
 유저인터페이스\map\event_01.bmp#유저인터페이스\map\event_01.bmp#
+
+celestiaj.gnd#celestiaj.gnd#
+celestiaj.gat#celestiaj.gat#
+celestiaj.rsw#celestiaj.rsw#
+celestiaj.extra#celestiaj.extra#
+유저인터페이스\map\celestiaj.bmp#유저인터페이스\map\celestiaj.bmp#
