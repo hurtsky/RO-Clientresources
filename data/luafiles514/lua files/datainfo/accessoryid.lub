@@ -1528,4 +1528,6 @@ ACCESSORY_IDs = {
 	ACCESSORY_archangel_wings = 1544,
 	ACCESSORY_Rojak_Skateboard = 1545,
 	ACCESSORY_Red_Cat_Ears_Beret = 1546,
+	ACCESSORY_Akatsuki_Hat = 1547,
+	ACCESSORY_Dark_Lord_Helm = 1548,
 }
