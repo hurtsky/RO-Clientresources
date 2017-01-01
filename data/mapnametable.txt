@@ -1226,7 +1226,6 @@ artz_pvp.rsw#PVP : Room Rojak 2#
 desert.rsw#PVP : Room Rojak 3#
 fishingboat.rsw#PVP : Room Rojak 4#
 garden.rsw#PVP : Room Rojak 5#
-ghosthunter.rsw#PVP : Room Rojak 6#
 storehouse.rsw#PVP : Room Rojak 7#
 
 //SPECIAL AREAS
@@ -1242,9 +1241,10 @@ maze.rsw#Maze Event#
 //custom
 wolfmap1.rsw#Wolf#
 vend_zone.rsw#Vending Zone#
-sm_pri.rsw#Zone 1#
-r_road.rsw#Zone 2#
-mall01.rsw#Zone 3#
+sm_pri.rsw#Rojak Jail#
+r_road.rsw#Zone 1#
+mall01.rsw#Rojak Mall#
 Investigation.rsw#Zone 4#
-event_01.rsw#Zone 5#
-celestiaj.rsw#Zone 6#
+event_01.rsw#Zone 2#
+celestiaj.rsw#Rojak Main Town#
+ghosthunter.rsw#KAPTEN AREA#
