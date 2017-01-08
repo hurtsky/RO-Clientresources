@@ -737,3 +737,9 @@
 40006#of Faith#
 
 40030#of Rojak#
+
+40048#of Master Exile#
+40049#of Endless Faith#
+40050#of Vengeful Envy#
+40051#of Blood Lust#
+40052#of Obsessed Greed#
